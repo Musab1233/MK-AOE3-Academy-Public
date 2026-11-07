@@ -1,0 +1,12 @@
+# MK-AOE3-Academy-Public — SHA-256 manifest
+# Generated after public-browser verification on 2026-11-07.
+# This manifest does not contain its own hash.
+
+f11223f4ecdf1d2dc58c8fd204d2db2400160ae8bd7ed9f1991ed2585cb884e3  .gitignore
+0b92ecdf06ef5c37d2a8be1d4c8f6c18903f0b68544bd8f625320bf5259fe573  COPYRIGHT.txt
+3a5fc369bfb9f37de7728fd5629e1355f0f23684edf24c632a9c5029d3962410  CREDITS.md
+39731b439fc5456baca05cfaaad092144658e2b1f7f924113245a059b4b5a0ab  PUBLIC-CONTENT-BOUNDARY.md
+1ccf22a0f9ca4d980f31fe12547970e261fd4ae242f4a2d03b648b92e9d2f52e  README.md
+1089e6a784fd28c334b17e395e08ed64de0ea32f6fb8aa54f40c5f6403238433  index.html
+421bf1857c6b75a63f683951d371674c724a8bea4e72742e7b693ade87571499  src/main.js
+e00c6879dfa6994d5b6bf0e2f7a8831c87fcc7aa61d0da7dd1bf8ad528f2ffd1  src/styles.css

@@ -1,0 +1,9 @@
+MK AOE3 Standards Institute & Professional Academy — Proprietary Rights Notice
+
+Copyright (c) 2026 Musab Badewi Mustafa Khiri. All rights reserved.
+
+This website and its original AOE3-specific content are NOT offered under an open-source license. No permission to reproduce, modify, redistribute, sublicense, commercially exploit, or publicly disclose proprietary material is granted through the presence of this file.
+
+Any authorized use must be governed by applicable law and an appropriate written agreement approved by the rights holder.
+
+Third-party standards, software, publications, fonts, and trademarks referenced within the content remain subject to their respective owners. The public package uses local system font stacks and includes no third-party font binaries.
