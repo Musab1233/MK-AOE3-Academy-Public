@@ -4,7 +4,7 @@
 
 This repository contains the public bilingual English/Arabic website for the **MK AOE3 Standards Institute & Professional Academy**.
 
-It presents the Academy’s purpose, AOE3 doctrine, ten foundational principles, twelve standards families, eight Body of Knowledge domains, six proposed certification pathways, and synthetic educational stories.
+It presents the Academy’s purpose, AOE3 doctrine, ten foundational principles, twelve standards families, eight Body of Knowledge domains, six proposed certification pathways, broad research themes, controlled-disclosure rules, and synthetic educational stories.
 
 The private Academy development repository remains separate. This repository is a presentation layer, not a copy of the private working estate.
 
@@ -14,6 +14,8 @@ The private Academy development repository remains separate. This repository is 
 - AOE3 standards remain in development; Draft and Planned labels are intentional.
 - Certification pathways are proposed and no credentials are currently awarded.
 - Public credential verification is not active.
+- Research themes are broad public topics only; no live research candidate is disclosed.
+- Working research, candidate review, and disclosure registers remain private.
 - No external accreditation, professional recognition, partnership, product conformance, security efficacy, or engineering qualification is claimed.
 
 ## Repository boundary
@@ -23,12 +25,13 @@ The public site includes educational summaries only.
 It does not include:
 
 - Full normative standards or controlled working drafts.
-- Decision, risk, curriculum, examination, improvement, or evidence registers.
+- Decision, risk, curriculum, examination, improvement, research, disclosure, or evidence registers.
+- Live research-candidate titles, abstracts, drafts, reviewer comments, research evidence, working notes, or confidential collaboration material.
 - Examination banks, assessment answers, learner records, or personal data.
 - Track A material, canonical evidence, internal release records, or owner-only guides.
 - Credentials, recovery information, private keys, secrets, or private repository content.
 
-See `PUBLIC-CONTENT-BOUNDARY.md` for the standing publication rules.
+See `PUBLIC-CONTENT-BOUNDARY.md` for the standing publication rules and `RESEARCH-AND-DISCLOSURE.md` for the public research-disclosure policy. Approval of a public summary does not authorize disclosure of its underlying research or later versions.
 
 ## Open the website
 
@@ -61,6 +64,7 @@ MK-AOE3-Academy-Public/
 │   ├── main.js
 │   └── styles.css
 ├── PUBLIC-CONTENT-BOUNDARY.md
+├── RESEARCH-AND-DISCLOSURE.md
 ├── COPYRIGHT.txt
 ├── CREDITS.md
 ├── MANIFEST-SHA256.txt
